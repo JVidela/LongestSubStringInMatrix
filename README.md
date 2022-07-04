@@ -1,0 +1,2 @@
+# LongestSubStringInMatrix
+Sea una matriz cuadrada de dos dimensiones, de caracteres (cualquiera), devuelva la cadena de caracteres adyacentes iguales más larga.Debes buscar en vertical, diagonal y horizontal. El programa que escribas debe tomar la entrada de un archivo de texto plano o de la entrada estándar (elige el método que te sea más cómodo) y debe sacar la cadena por salida estándar. Puedes escribirlo en el lenguaje de programación que te sea más cómodo.
